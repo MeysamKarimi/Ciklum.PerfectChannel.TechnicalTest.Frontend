@@ -1,2 +1,2 @@
 # Ciklum.PerfectChannel.TechnicalTest.Frontend
-React
+Implement a todo-list containing separated 'Completed' and 'Pending' tasks via SPA using the React.
